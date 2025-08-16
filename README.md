@@ -5,15 +5,14 @@ Python script to clean messy CSV files:
 - Fills missing values
 - Saves a cleaned CSV file
 
-## Sample Input
-`input.csv` contains data like:
+## Sample Input (first few rows)
 
-Name,Email,Age
-Alice,alice@example.com,25
-Bob,bob@example.com,
-Alice,alice@example.com,25
-Charlie,charlie@example.com,30
-,dan@example.com,22
+| Name    | Email             | Age |
+|---------|-----------------|-----|
+| Alice   | alice@example.com | 25  |
+| Bob     | bob@example.com   |     |
+| Alice   | alice@example.com | 25  |
+
 
 ## How to Use
 1. Install dependencies: `pip install pandas`
