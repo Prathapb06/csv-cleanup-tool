@@ -15,7 +15,7 @@ Python script to clean messy CSV files:
 
 
 ## How to Use
-1. Install dependencies: `pip install pandas`
+1. Install dependencies: `pip install -r requirements.txt`
 2. Place your CSV file as `input.csv`
 3. Run the script: `python cleanup.py`
 4. Output will be saved as `cleaned_output.csv`
