@@ -24,3 +24,7 @@ Python script to clean messy CSV files:
 - Python, Pandas
 - Data Cleaning & Automation
 - File Handling
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE).
